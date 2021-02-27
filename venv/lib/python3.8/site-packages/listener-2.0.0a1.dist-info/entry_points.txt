@@ -1,0 +1,11 @@
+[console_scripts]
+listener = listener.qtgui.app:main
+listener-audio = listener.pipeaudio:main
+listener-daemon = listener.daemon:main
+listener-debug-events = listener.eventreceiver:main
+listener-docker = listener.dockersetup:main
+listener-ibus = listener.ibusengine:main
+listener-interpreter = listener.interpreter:main
+listener-uinput-device = listener.uinputdriver:main
+listener-uinput-rebuild-mapping = listener.uinputdriver:rebuild_mapping
+
