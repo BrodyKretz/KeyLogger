@@ -65,7 +65,6 @@ pyobjc-framework-ExternalAccessory==7.1
 pyobjc-framework-FSEvents==7.1	
 pyobjc-framework-FileProvider==7.1	
 pyobjc-framework-FileProviderUI==7.1	
-pyobjc-framework-FinderSyn==7.1	
 pyobjc-framework-GameCente==7.1	
 pyobjc-framework-GameControlle==7.1	
 pyobjc-framework-GameKi==7.1	
