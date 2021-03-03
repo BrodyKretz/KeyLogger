@@ -12,3 +12,7 @@ listener==2.0.0a1
 logging==0.4.9.6
 pynput==1.7.3
 pyobjc==7.1
+pyperclip==1.8.2
+rubicon-objc==0.4.0
+setuptools==53.1.0
+six==1.15.0
