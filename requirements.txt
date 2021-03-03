@@ -72,8 +72,7 @@ pyobjc-framework-GameplayKit==7.1
 pyobjc-framework-IMServicePlugIn==7.1	
 pyobjc-framework-IOSurface==7.1	
 pyobjc-framework-ImageCaptureCore==7.1	
-pyobjc-framework-InputMethodKit==7.1	
-pyobjc-framework-InstallerPlugin==7.1	
+pyobjc-framework-InputMethodKit==7.1
 pyobjc-framework-InstantMessage==7.1	
 pyobjc-framework-Intent==7.1	
 pyobjc-framework-LatentSemanticMappin==7.1	
