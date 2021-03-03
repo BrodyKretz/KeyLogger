@@ -3,8 +3,8 @@ import smtplib
 
 
 
-sender = "dd0c4a4364-71c52f@inbox.mailtrap.io"
-receiver = "qieaprhy@sharklasers.com"
+sender = "#Example#"
+receiver = "#Example#"
 
 filename = "mouse_log.txt"
 # Open PDF file in binary mode
