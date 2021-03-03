@@ -9,6 +9,8 @@ $ pip install pynput
 
 $ pip install logging
 
+$ pip install secure-smtplib
+
 $ git clone 
 
 $ cd EasyKeyLoggerPython
