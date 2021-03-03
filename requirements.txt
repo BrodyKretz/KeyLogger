@@ -11,4 +11,4 @@ PyUserInput==0.1.11
 listener==2.0.0a1
 logging==0.4.9.6
 pynput==1.7.3
-pyobjc==7.1	7.1
+pyobjc==7.1
