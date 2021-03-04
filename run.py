@@ -25,7 +25,7 @@ def on_scroll(x, y, dx, dy):
 
 def on_press(key):
     try:
-        logging.info('alphanumeric key {0} pressed'.format(
+        logging.info('{0}'.format(
             key.char))
     except AttributeError:
         logging.info('special key {0} pressed'.format(
