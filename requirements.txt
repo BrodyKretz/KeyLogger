@@ -20,5 +20,4 @@ pyobjc-framework-AVFoundation==7.1
 pyperclip==1.8.2	
 rubicon-objc==0.4.0	
 setuptools==53.1.0	
-six==1.15.0	
-time==1.0.0
+six==1.15.0
