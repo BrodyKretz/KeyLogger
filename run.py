@@ -55,7 +55,7 @@ def do_stuff():
 
         
         
-max_time = int(raw_input('Enter the amount of seconds you want to run this: '))
+max_time = 30 #30 Seconds
 start_time = time.time()  # remember when we started
 while (time.time() - start_time) < max_time:
     do_stuff()
