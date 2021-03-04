@@ -31,7 +31,7 @@ def on_press(key):
         logging.info('special key {0} pressed'.format(
             key))
         
-  '''      
+'''      
 def on_release(key):
     logging.info('{0} released'.format(
         key))
@@ -39,6 +39,8 @@ def on_release(key):
         # Stop listener
         return False
 '''
+
+
 # Collect events until released
 with keyboard.Listener(
         on_press=on_press,
