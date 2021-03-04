@@ -13,4 +13,13 @@ $ cd EasyKeyLoggerPython
 
 $ pip install -r requirements.txt
 
+$ nano run.py
+
+
+CTRL+w 
+#Examples#
+CTRL+x
+y
+
+
 $ python3 run.py
