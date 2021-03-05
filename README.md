@@ -46,7 +46,7 @@ $ python3 run.py
 
 
 
-After all is done you can fidn you encrypted mail it your mailtrap inbox
+After all is done you can find your encrypted mail it your mailtrap inbox
 
 <img width="1410" alt="Screen Shot 2021-03-04 at 3 32 12 PM" src="https://user-images.githubusercontent.com/43651169/110039725-e9bdce80-7cfe-11eb-8823-c2e1dcd7f463.png">
 
