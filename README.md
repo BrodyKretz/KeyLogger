@@ -1,4 +1,8 @@
 # EasyKeyLoggerPython
+###STILL IN TESTING###
+
+
+
 This a program I made for fun that records your key and mouse strokes and stores them into a file.
 
 Make a MailTrap Account
