@@ -1,7 +1,7 @@
 # EasyKeyLoggerPython
 ###STILL IN TESTING###
 
-
+## Setup
 
 This a program I made for fun that records your key and mouse strokes and stores them into a file.
 
@@ -13,8 +13,7 @@ Sender = 'Your mail trap address'
 
 Reciever = 'Any valid address'
 
-Usage 
-
+## USAGE 
 
 
 $ git clone https://github.com/BrodyKretz/EasyKeyLoggerPython.git
