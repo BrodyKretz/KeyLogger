@@ -8,8 +8,6 @@ The goal of this project was to create a passive keylogger that will be hard to 
 
 ## Setup
 
-This a program I made for fun that records your key and mouse strokes and stores them into a file.
-
 Make a MailTrap Account
 
 https://mailtrap.io
