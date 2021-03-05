@@ -33,18 +33,10 @@ pip install -r requirements.txt
 nano run.py
 ```
 
-CTRL+w 
-
-followed by
-
-#Example#
+CTRL+w ---- followed by ---- #Example#
 
 
-CTRL+x
-
-followed by
-
-y
+CTRL+x ----- followed by ----  y
 
 ```
 python3 run.py
