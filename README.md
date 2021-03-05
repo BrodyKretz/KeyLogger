@@ -10,7 +10,8 @@ Make a MailTrap Account
 https://mailtrap.io
 
 Sender = 'Your mail trap address'
-Reciever = 'Any valid Adress'
+
+Reciever = 'Any valid address'
 
 Usage 
 
@@ -27,6 +28,7 @@ $ nano run.py
 
 CTRL+w 
 #Examples#
+
 CTRL+x
 y
 
