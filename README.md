@@ -4,7 +4,7 @@
 
 The goal of this project was to create a passive keylogger that will be hard to identify, the key logger will store data in a folder, and encrypt the fodler so if it is ever discoverd it wont be readable, it then will silently send a email to you with the encryptd data that you can then decrypt for results. This is a project made by me alone and is for my own leaerning. There shoukd be no melisious intent behind your use of this project, and i encourage you to fork this project and add on to it or even make it better.
 
-###Please use thsi project for educational purposes only!###
+###Please use this project for educational purposes only!###
 
 ## Setup
 
