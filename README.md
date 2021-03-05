@@ -30,7 +30,7 @@ CTRL+w
 
 followed by
 
-#Examples#
+#Example#
 
 
 CTRL+x
