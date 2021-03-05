@@ -18,7 +18,7 @@ Sender = 'Your mail trap address'
 
 Reciever = 'Any valid address'
 
-## USAGE 
+## Usage
 
 ```
 git clone https://github.com/BrodyKretz/EasyKeyLoggerPython.git
