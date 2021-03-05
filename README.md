@@ -27,9 +27,16 @@ $ nano run.py
 
 
 CTRL+w 
+
+followed by
+
 #Examples#
 
+
 CTRL+x
+
+followed by
+
 y
 
 
