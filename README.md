@@ -20,15 +20,18 @@ Reciever = 'Any valid address'
 
 ## USAGE 
 
-
-$ git clone https://github.com/BrodyKretz/EasyKeyLoggerPython.git
-
-$ cd EasyKeyLoggerPython
-
-$ pip install -r requirements.txt
-
-$ nano run.py
-
+```
+git clone https://github.com/BrodyKretz/EasyKeyLoggerPython.git
+```
+```
+cd EasyKeyLoggerPython
+```
+```
+pip install -r requirements.txt
+```
+```
+nano run.py
+```
 
 CTRL+w 
 
@@ -43,10 +46,10 @@ followed by
 
 y
 
+```
+python3 run.py
 
-$ python3 run.py
-
-
+```
 
 
 
