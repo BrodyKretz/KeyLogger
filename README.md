@@ -26,7 +26,7 @@ Reciever = 'Any valid address'
 ## Usage
 
 ```
-git clone https://github.com/BrodyKretz/EasyKeyLoggerPython.git
+git clone https://github.com/TheComputerDon/KeyLogger.git
 ```
 ```
 cd EasyKeyLoggerPython
