@@ -13,6 +13,8 @@ The goal of this project was to create a passive keylogger that will be hard to 
 
 ###Please use this project for educational purposes only!###
 
+## Note - This project is a fork from Quantum-Encryption
+
 ## Setup
 
 Make a MailTrap Account
