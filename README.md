@@ -1,6 +1,6 @@
-<img width="640" alt="Screen Shot 2021-03-05 at 1 50 45 PM" src="https://user-images.githubusercontent.com/43651169/110172024-cc016f80-7db9-11eb-9376-467e6ccdbc7b.png">
+This program runs a key-logger in the backround of a system and will email the log files to a specified email address. 
 
-
+This is a proof of concept that should not be used on systems without their permision
 
 ## WORKS ON MAC/WINDOWS/LINUX
 ###STILL IN TESTING###
