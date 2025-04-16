@@ -1,4 +1,4 @@
-This program runs a key-logger in the backround of a system and will email the log files to a specified email address. 
+This is a program that runs a python based key-logger in the backround of a system and will email the log files to a specified email address. 
 
 This is a proof of concept that should not be used on systems without their permision
 
